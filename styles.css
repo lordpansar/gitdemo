@@ -12,3 +12,7 @@
 .myOtherClass {
 	background-color:pink;
 }
+
+.hidden {
+	visibility:hidden;
+}
